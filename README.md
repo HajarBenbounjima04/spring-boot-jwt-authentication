@@ -1,4 +1,4 @@
-# TP2 : Authentification avec JWT et Spring Security
+Authentification avec JWT et Spring Security
 
 API REST sécurisée par **JSON Web Token (JWT)**, réalisée avec Spring Boot et Spring Security.
 Un utilisateur s'inscrit, se connecte, reçoit un token, puis l'envoie dans le header `Authorization` pour accéder aux routes protégées.
