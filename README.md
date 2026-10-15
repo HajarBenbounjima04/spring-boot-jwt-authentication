@@ -15,7 +15,7 @@ Un utilisateur s'inscrit, se connecte, reçoit un token, puis l'envoie dans le h
 ## Architecture
 
 ```
-src/main/java/ma/enset/tpjwtspring
+src/main/java/ma/enset/tp_jwt_spring
 ├── controller
 │   ├── AuthController.java        # /auth/register et /auth/login
 │   └── UserController.java        # /api/hello et /api/profile (protégés)
